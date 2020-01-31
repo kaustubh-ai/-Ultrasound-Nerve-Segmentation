@@ -6,7 +6,7 @@
 - [Project Motivation](#motivation)
 - [Project Components](#components)
   - [Image Masks](#mlb)
-  - [Multi Label Splitting](#mls)
+  - [Custom Image Transformation + Image Generator](#mls)
   - [Deep Neural Net](#dnn)
 - [Usage](#usage)
 - [Contribute](#contribute)
